@@ -1,6 +1,6 @@
-# name: ponguru aasrith sairam
+# name:S.VENGADA KRISHNAN
 
-# reg. no: 212223240116
+# reg. no: 212223110061
 # 3c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
